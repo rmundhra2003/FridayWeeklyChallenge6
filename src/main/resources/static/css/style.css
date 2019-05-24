@@ -1,0 +1,49 @@
+body {
+    background-color:#F5F5DC;
+    background-image: url("/img/car.jpeg");
+    background-size: 400px 400px;
+}
+
+
+.jumbotron{
+    background-color: darkolivegreen;
+    background-repeat: no-repeat;
+    font-size: x-large;
+    font-style: italic;
+    text-align:center;
+}
+h1 {
+    color:whitesmoke;
+    text-align:center;
+    font-size: 40px;
+}
+h2 {
+    color:whitesmoke;
+    text-align:center;
+    font-size: 30px;
+}
+table td{
+    color:whitesmoke;
+    font-size: 20px;
+}
+table th{
+    color:whitesmoke;
+    font-size: 20px;
+}
+p {
+    font-family: verdana;
+    font-size: 15px;
+    color:white;
+    padding:30px;
+}
+h3{
+    color: whitesmoke;
+    text-align:center;
+    font-size: 20px;
+}
+.whitesmoke-font{
+    color: whitesmoke;
+}
+.container{
+    margin-bottom: 35px;
+}
