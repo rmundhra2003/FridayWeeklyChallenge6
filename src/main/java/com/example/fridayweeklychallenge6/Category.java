@@ -17,6 +17,7 @@ public class Category {
 
     @OneToMany(mappedBy = "category",
             fetch = FetchType.EAGER,
+            cascade = CascadeType.ALL,
             orphanRemoval = true)
     public Set<Car> cars;
 
